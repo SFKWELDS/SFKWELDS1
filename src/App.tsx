@@ -16,10 +16,10 @@ function HomePage() {
     <div className="min-h-screen bg-black">
       <Hero />
       <Overview />
-      <Founder />
+      <Projects />
       <Services />
       <Process />
-      <Projects />
+      <Founder />
       <Contact />
       <Footer />
     </div>
